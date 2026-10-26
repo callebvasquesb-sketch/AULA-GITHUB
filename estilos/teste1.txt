@@ -1,2 +1,4 @@
 hello world! Il dolce far Niente forcei um conflito
 Testando pra poder dar erro no ficheiro rs. 
+hello world! Il dolce far Niente forcei um conflito.
+testando exercicio de aula.
